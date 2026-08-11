@@ -1,0 +1,742 @@
+@media(max-width:574px){
+  .main_head{
+    font-size: 24px;
+  }
+  .highlights{
+    padding: 0;
+  }
+  .highlights_right {
+    padding: 0;
+    margin-top: 30px;
+}
+  .highlights_left{
+    display: block;
+  }
+  .highlights::after{
+    display: none;
+  }
+  .service-form-div form {
+    padding: 0;
+}
+  .highlight_wrap ul li {
+    padding-left: 25px;
+}
+  .vs_content span {
+    font-size: 34px;
+    width: 50px;
+    height: 50px;
+}
+.vs_content h6 {
+  font-size: 20px;
+}
+.vs_bottom button {
+  padding: 8px 15px;
+}
+  .slider-content-div {
+    position: relative;
+    background: var(--primary-color);
+    padding: 30px 10px !important;
+    justify-content: center;
+    text-align: center;
+}
+.highlight_wrap {
+  background: transparent;
+  padding: 10px;
+  width: unset;
+  backdrop-filter: blur(8px);
+}
+.slider-content-div h1 {
+  font-size: 28px;
+}
+.slider-content-div span {
+  font-size: 20px;
+}
+  .floor_plans {
+    width: 100%;
+}
+.mainsectionlt {
+  height: unset;
+  margin-left: 0;
+}
+    .enquiry_title h6 {
+      width: 100%;
+    }
+    .brand img {
+      width: 60px;
+    }
+    .location_wrap {
+      height: unset;
+    }
+    .head_centre {
+      width: unset;
+  }
+    .navbar{
+        width:100%;
+        padding: 4px;
+    }
+    #delayedPopup > div.formDescription {
+      display: none;
+    }
+    .delayedPopupWindow {
+      width: 90%;
+      max-width: 90%;
+    }
+    #delayedPopup #mc_embed_signup {
+      width: 100%;
+    }
+    #btnClose {
+      right: 0px;
+      top: 0px;
+      color: #000;
+  }
+    .navbar .wrapper {
+      display: block;
+    }
+    #menu {
+      width: 100%;
+      padding-right: 0;
+    }
+    footer {
+    margin-bottom: 50px;
+  }
+    #main-slider .owl-stage img{
+      height: 230px;
+    }
+      .response-view {
+      display: block !important;
+      width: 100%;
+      float: unset;
+      position: relative;
+      height: unset;
+    }
+    .left-side {
+      width: 100%;
+    }
+    .right-side {
+      display: none;
+    }
+    .common_padding_right {
+    padding-right: 10px;
+  }
+  .common_padding_left {
+    padding-left: 10px;
+  }
+  .common_padding_bottom {
+    padding-bottom: 45px;
+  }
+  .common_padding_top {
+    padding-top: 45px;
+  }
+  .mainsectionrt {
+    margin-top: 20px;
+  }
+  .main_head {
+    font-size: 24px;
+}
+.flex_reverse{
+  flex-direction: column-reverse;
+}
+  .smalltitle {
+    font-size: 14px;
+    line-height: 0;
+    margin-bottom: 20px;
+}
+.btn2 {
+  font-size: 14px;
+}
+.location_map{
+  height: unset;
+}
+.location_details ul li{
+  width: 100%;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+  .common_paragraph p {
+    font-size: 14px;
+  }
+  .faq .accordion-button h6 {
+    font-size: 18px;
+  }
+  .gallery_image{
+    height: unset;
+  }
+    .price_break_btn {
+    padding: 10px;
+  }
+  #priceslider .owl-prev {
+    width: 33px;
+    height: 33px;
+    left: 0;
+    line-height: 35px;
+  }
+  #priceslider .owl-next{
+    width: 33px;
+    height: 33px;
+    right: 0;
+    line-height: 35px;
+  }
+  .testimonials iframe {
+    margin-bottom: 25px;
+  }
+  .location_details {
+    padding: 20px;
+    padding: 0;
+}
+   #address .nav-pills .nav-link {
+    padding: 5px 12px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  #project-slider .owl-next {
+    width: 34px;
+    height: 34px;
+    right: 0;
+    line-height: 34px;
+  }
+    #project-slider .owl-prev{
+    width: 34px;
+    height: 34px;
+    left: 0;
+    line-height: 34px;
+  }
+  #banner-slider .owl-nav button {
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: -20px;
+  }
+  .institutions {
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .institutions h6 {
+    width: 100%;
+  }
+  .amenities {
+    margin-left: 0;
+  }
+  .amenities_wrap {
+    display: block;
+    margin-bottom: 10px;
+    height: 140px;
+}
+.vs_wrap {
+  height: 200px;
+  margin-top: 20px;
+}
+  .amenities_wrap h6 {
+    font-size: 14px;
+  }
+  #cta p {
+    width: unset;
+}
+  .video_thumb img {
+    width: 100%;
+  }
+  .ftr_logo {
+    width: 120px;
+  }
+  .rera {
+    width: 100%;
+    text-align: left;
+    float: left;
+    margin-top: 20px;
+  }
+  .rera h6 {
+    font-size: 15px;
+    margin-bottom: 15px;
+    display: flex;
+  }
+  .rera h6 iconify-icon{
+    margin-right: 5px;
+  }
+  .copy_right .container {
+    display: block;
+  }
+  .copy_right p {
+    font-size: 12px;
+  }
+  .copy_right {
+    margin-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+  .price_detail_top h5 {
+    font-size: 16px;
+  }
+  .price_detail_wrap {
+    margin-bottom: 20px;
+}
+     .bottomfix {
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    left: 0;
+    justify-content: space-between;
+    background: var(--primary-color);
+  }
+  .orange-bar{
+    width: unset;
+  }
+  .bottomfix a{
+    font-size: 13px;
+  }
+
+}
+
+@media (min-width:575px) and (max-width:767px){
+  .service-form-div form {
+    padding: 0;
+}
+  .vs_content span {
+    font-size: 34px;
+    width: 50px;
+    height: 50px;
+}
+.vs_content h6 {
+  font-size: 20px;
+}
+.vs_bottom button {
+  padding: 8px 15px;
+}
+  .slider-content-div {
+    position: relative;
+    background: var(--primary-color);
+    padding: 30px 10px !important;
+    justify-content: center;
+    text-align: center;
+}
+.highlight_wrap {
+  background: transparent;
+  padding: 0;
+  width: unset;
+  backdrop-filter: blur(8px);
+}
+.slider-content-div h1 {
+  font-size: 28px;
+}
+.slider-content-div span {
+  font-size: 24px;
+}
+  .floor_plans {
+    width: 100%;
+}
+.mainsectionlt {
+  height: unset;
+  margin-left: 0;
+}
+    .enquiry_title h6 {
+      width: 100%;
+    }
+    .brand img {
+      width: 60px;
+    }
+    .location_wrap {
+      height: unset;
+    }
+    .head_centre {
+      width: unset;
+  }
+    .navbar{
+        width:100%;
+    }
+    #delayedPopup > div.formDescription {
+      display: none;
+    }
+    .delayedPopupWindow {
+      width: 90%;
+      max-width: 90%;
+    }
+    #delayedPopup #mc_embed_signup {
+      width: 100%;
+    }
+    #btnClose {
+      right: 0px;
+      top: 0px;
+      color: #000;
+  }
+    .navbar .wrapper {
+      display: block;
+    }
+    #menu {
+      width: 100%;
+      padding-right: 0;
+    }
+    footer {
+    margin-bottom: 50px;
+  }
+    #main-slider .owl-stage img{
+      height: 230px;
+    }
+      .response-view {
+      display: block !important;
+      width: 100%;
+      float: unset;
+      position: relative;
+      height: unset;
+    }
+    .left-side {
+      width: 100%;
+    }
+    .right-side {
+      display: none;
+    }
+    .common_padding_right {
+    padding-right: 10px;
+  }
+  .common_padding_left {
+    padding-left: 10px;
+  }
+  .common_padding_bottom {
+    padding-bottom: 45px;
+  }
+  .common_padding_top {
+    padding-top: 45px;
+  }
+  .mainsectionrt {
+    margin-top: 20px;
+  }
+  .main_head {
+    font-size: 24px;
+}
+.flex_reverse{
+  flex-direction: column-reverse;
+}
+  .smalltitle {
+    font-size: 14px;
+    line-height: 0;
+    margin-bottom: 20px;
+}
+.btn2 {
+  font-size: 14px;
+}
+.location_map{
+  height: unset;
+}
+.location_details ul li{
+  width: 100%;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+  .common_paragraph p {
+    font-size: 14px;
+  }
+  .faq .accordion-button h6 {
+    font-size: 18px;
+  }
+  .gallery_image{
+    height: unset;
+  }
+    .price_break_btn {
+    padding: 10px;
+  }
+  #priceslider .owl-prev {
+    width: 33px;
+    height: 33px;
+    left: 0;
+    line-height: 35px;
+  }
+  #priceslider .owl-next{
+    width: 33px;
+    height: 33px;
+    right: 0;
+    line-height: 35px;
+  }
+  .testimonials iframe {
+    margin-bottom: 25px;
+  }
+  .location_details {
+    padding: 20px;
+    padding: 0;
+}
+   #address .nav-pills .nav-link {
+    padding: 5px 12px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  #project-slider .owl-next {
+    width: 34px;
+    height: 34px;
+    right: 0;
+    line-height: 34px;
+  }
+    #project-slider .owl-prev{
+    width: 34px;
+    height: 34px;
+    left: 0;
+    line-height: 34px;
+  }
+  #banner-slider .owl-nav button {
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: -20px;
+  }
+  .institutions {
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .institutions h6 {
+    width: 100%;
+  }
+  .amenities {
+    margin-left: 0;
+  }
+  .amenities_wrap {
+    display: block;
+    margin-bottom: 10px;
+    height: 100px;
+}
+.vs_wrap {
+  height: 200px;
+  margin-top: 20px;
+}
+  .amenities_wrap h6 {
+    font-size: 14px;
+  }
+  #cta p {
+    width: unset;
+}
+  .video_thumb img {
+    width: 100%;
+  }
+  .ftr_logo {
+    width: 120px;
+  }
+  .rera {
+    width: 100%;
+    text-align: left;
+    float: left;
+    margin-top: 20px;
+  }
+  .rera h6 {
+    font-size: 15px;
+    margin-bottom: 15px;
+    display: flex;
+  }
+  .rera h6 iconify-icon{
+    margin-right: 5px;
+  }
+  .copy_right .container {
+    display: block;
+  }
+  .copy_right p {
+    font-size: 12px;
+  }
+  .copy_right {
+    margin-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+  .price_detail_top h5 {
+    font-size: 16px;
+  }
+  .price_detail_wrap {
+    margin-bottom: 20px;
+}
+     .bottomfix {
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    left: 0;
+    justify-content: space-between;
+    background: var(--primary-color);
+  }
+  .orange-bar{
+    width: unset;
+  }
+  .bottomfix a{
+    font-size: 13px;
+  }
+  .highlight_wrap ul li {
+    padding-left: 30px;
+}
+}
+
+@media (min-width:768px) and (max-width:1199px){
+        .location_map {
+      height: unset;
+    }
+    .location_wrap {
+      height: unset;
+    }
+
+.location_map img {
+  width: 100%;
+  height: 100%;
+}
+     footer {
+    margin-bottom: 50px;
+  }
+  .slider-content-div h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+      .response-view {
+      display: block !important;
+      width: 100%;
+      float: unset;
+      position: relative;
+      height: unset;
+    }
+    .left-side {
+      width: 100%;
+    }
+    .right-side {
+      display: none;
+    }
+    .common_padding_right {
+    padding-right: 30px;
+  }
+  .common_padding_left {
+    padding-left: 30px;
+  }
+  .common_padding_bottom {
+    padding-bottom: 45px;
+  }
+  .common_padding_top {
+    padding-top: 45px;
+  }
+  .mainsectionrt {
+    margin-top: 30px;
+  }
+   .smalltitle {
+      font-size: 17px;
+      line-height: 25px;
+    }
+  .common_paragraph p {
+    font-size: 14px;
+  }
+  .faq .accordion-button h6 {
+    font-size: 18px;
+  }
+  .gallery_image {
+    height: 200px;
+}
+    .price_break_btn {
+    padding: 10px;
+  }
+  #priceslider .owl-prev {
+    width: 33px;
+    height: 33px;
+    left: 0;
+    line-height: 35px;
+  }
+  #priceslider .owl-next{
+    width: 33px;
+    height: 33px;
+    right: 0;
+    line-height: 35px;
+  }
+  .testimonials iframe {
+    margin-bottom: 25px;
+  }
+  .location_details {
+    padding: 20px;
+  }
+   #address .nav-pills .nav-link {
+    padding: 5px 12px;
+    font-size: 14px;
+  }
+  .institutions {
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .institutions h6 {
+    width: 100%;
+  }
+  .amenities {
+    margin-left: 0;
+  }
+  .amenities_wrap{
+    display: block;
+    margin-bottom: 30px;
+  }
+  .amenities_wrap h6 {
+    font-size: 14px;
+    min-height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .video_thumb img {
+    width: 100%;
+  }
+  .ftr_logo {
+    width: 120px;
+  }
+  .rera {
+    width: 100%;
+    text-align: left;
+    float: left;
+    margin-top: 20px;
+  }
+  .rera h6 {
+    font-size: 15px;
+    margin-bottom: 15px;
+    display: flex;
+  }
+  .rera h6 iconify-icon{
+    margin-right: 5px;
+  }
+  .copy_right .container {
+    display: block;
+  }
+  .copy_right p {
+    font-size: 12px;
+  }
+  .copy_right {
+    margin-top: 0;
+    padding-top: 10px;
+  }
+     .bottomfix {
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    left: 0;
+    justify-content: space-evenly;
+    background: #2d3691;
+  }
+  .orange-bar{
+    width: unset;
+  }
+  .bottomfix a{
+    font-size: 13px;
+  }
+}
+@media (min-width:992px) and (max-width:1199px){
+.common_padding_right {
+    padding-right: 55px;
+  }
+  .common_padding_left {
+    padding-left: 55px;
+  }
+  .navbar{
+        width:100%;
+    }
+}
+
+
+@media (min-width:1200px){
+  .bottomfix{
+    display: none;
+  }
+  #project-highlights .owl-nav{
+    display: none!important;
+  }
+}
+@media (max-width:991px){
+.navbar{
+        width:100%;
+    }
+}
